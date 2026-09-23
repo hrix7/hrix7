@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hritika Adhikary</title>
+  <desc id="desc">Biomedical Engineer specializing in medical imaging, artificial intelligence, computational modeling, and medical devices.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071126"/>
+      <stop offset="0.52" stop-color="#15245c"/>
+      <stop offset="1" stop-color="#0795b6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4238a5" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#053459" stop-opacity=".95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="10" fill="url(#background)"/>
+  <circle cx="1080" cy="55" r="125" fill="#28c4d8" opacity=".08"/>
+  <circle cx="1080" cy="55" r="75" fill="#7ce3ec" opacity=".08"/>
+  <path d="M0 236 C230 208 395 272 620 234 C820 200 1010 210 1200 230 L1200 300 L0 300 Z" fill="url(#wave)"/>
+  <path d="M0 258 C260 232 450 292 690 252 C910 216 1050 245 1200 250 L1200 300 L0 300 Z" fill="#06243d" opacity=".82"/>
+  <text x="600" y="126" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Hritika Adhikary</text>
+  <text x="600" y="178" text-anchor="middle" fill="#e9f7ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Biomedical Engineer • Medical Imaging &amp; AI • Computational Modeling • Medical Devices</text>
+</svg>
