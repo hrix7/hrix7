@@ -206,7 +206,7 @@ The central catalog connecting my technical projects, professional work, researc
 
 <p align="center">
   <img width="49%" src="assets/impact-widget.svg" alt="Selected portfolio metrics" />
-  <img width="49%" src="assets/research-widget.svg" alt="Research and engineering areas" />
+  <img width="49%" src="assets/research-widget-v2.svg" alt="Research and engineering areas" />
 </p>
 
 
