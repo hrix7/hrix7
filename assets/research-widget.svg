@@ -6,6 +6,6 @@
  <circle cx="47" cy="88" r="10" fill="#D98FA8"/><text x="69" y="94" font-size="16" font-weight="700" fill="#5E4050">Medical Imaging &amp; AI</text><text x="69" y="116" font-size="13" fill="#6F6770">classification · segmentation · localization</text>
  <circle cx="47" cy="146" r="10" fill="#A78BEA"/><text x="69" y="152" font-size="16" font-weight="700" fill="#57479A">Modeling &amp; Design</text><text x="69" y="174" font-size="13" fill="#6F6770">FEA · tissue models · CAD · 3D printing</text>
  <circle cx="47" cy="204" r="10" fill="#73B9E8"/><text x="69" y="210" font-size="16" font-weight="700" fill="#356D98">Signals &amp; Wearables</text><text x="69" y="232" font-size="13" fill="#6F6770">IMU · FSR · PPG · physiological analysis</text>
- <circle cx="47" cy="262" r="10" fill="#E5896F"/><text x="69" y="268" font-size="16" font-weight="700" fill="#934B42">Devices &amp; Translation</text><text x="286" y="268" font-size="13" fill="#6F6770">regulatory · human factors · clinical engineering</text>
+ <circle cx="47" cy="252" r="10" fill="#E5896F"/><text x="69" y="258" font-size="16" font-weight="700" fill="#934B42">Devices &amp; Translation</text><text x="69" y="281" font-size="13" fill="#6F6770">regulatory · human factors · clinical engineering</text>
 </g>
 </svg>
