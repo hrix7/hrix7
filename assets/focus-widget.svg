@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Currently focusing on">
+<rect x="8" y="8" width="1184" height="244" rx="24" fill="#FDF8F6" stroke="#E6D6DE" stroke-width="2"/>
+<text x="52" y="55" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#4D2536">Currently Focusing On</text>
+<g font-family="Arial,sans-serif">
+ <g transform="translate(52 82)"><rect width="340" height="128" rx="18" fill="#F6E3EB"/><circle cx="42" cy="42" r="22" fill="#D98FA8"/><path d="M30 43 C35 28 52 28 56 42 C60 56 43 65 43 65 C43 65 26 57 30 43Z" fill="none" stroke="#fff" stroke-width="3"/><text x="78" y="39" font-size="18" font-weight="700" fill="#713D55">Medical AI</text><text x="78" y="65" font-size="14" fill="#655B68">Imaging, localization</text><text x="78" y="87" font-size="14" fill="#655B68">and early diagnosis</text></g>
+ <g transform="translate(430 82)"><rect width="340" height="128" rx="18" fill="#ECE7FF"/><circle cx="42" cy="42" r="22" fill="#A78BEA"/><path d="M29 50 L38 33 L47 50 L56 33" fill="none" stroke="#fff" stroke-width="3"/><text x="78" y="39" font-size="18" font-weight="700" fill="#57479A">3D Tissue Models</text><text x="78" y="65" font-size="14" fill="#655B68">Biomechanics, sensors</text><text x="78" y="87" font-size="14" fill="#655B68">and regenerative design</text></g>
+ <g transform="translate(808 82)"><rect width="340" height="128" rx="18" fill="#E7F4FD"/><circle cx="42" cy="42" r="22" fill="#73B9E8"/><path d="M29 47 H55 M33 39 H51 M38 31 H46" fill="none" stroke="#fff" stroke-width="3"/><text x="78" y="39" font-size="18" font-weight="700" fill="#356D98">Research Tools</text><text x="78" y="65" font-size="14" fill="#655B68">Reproducible workflows</text><text x="78" y="87" font-size="14" fill="#655B68">and open documentation</text></g>
+</g>
+</svg>
