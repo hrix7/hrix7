@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="300" viewBox="0 0 580 300" role="img" aria-label="Research and engineering areas">
+<defs><linearGradient id="r" x1="0" x2="1"><stop stop-color="#FDF8F6"/><stop offset="1" stop-color="#E7F4FD"/></linearGradient></defs>
+<rect x="5" y="5" width="570" height="290" rx="22" fill="url(#r)" stroke="#D9E2ED" stroke-width="2"/>
+<text x="32" y="48" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#4D2536">Research &amp; Engineering Areas</text>
+<g font-family="Arial,sans-serif">
+ <circle cx="47" cy="88" r="10" fill="#D98FA8"/><text x="69" y="94" font-size="16" font-weight="700" fill="#5E4050">Medical Imaging &amp; AI</text><text x="69" y="116" font-size="13" fill="#6F6770">classification · segmentation · localization</text>
+ <circle cx="47" cy="146" r="10" fill="#A78BEA"/><text x="69" y="152" font-size="16" font-weight="700" fill="#57479A">Modeling &amp; Design</text><text x="69" y="174" font-size="13" fill="#6F6770">FEA · tissue models · CAD · 3D printing</text>
+ <circle cx="47" cy="204" r="10" fill="#73B9E8"/><text x="69" y="210" font-size="16" font-weight="700" fill="#356D98">Signals &amp; Wearables</text><text x="69" y="232" font-size="13" fill="#6F6770">IMU · FSR · PPG · physiological analysis</text>
+ <circle cx="47" cy="262" r="10" fill="#E5896F"/><text x="69" y="268" font-size="16" font-weight="700" fill="#934B42">Devices &amp; Translation</text><text x="286" y="268" font-size="13" fill="#6F6770">regulatory · human factors · clinical engineering</text>
+</g>
+</svg>

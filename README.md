@@ -1,6 +1,6 @@
-<!-- Soft MedTech Researcher profile theme -->
+<!-- Biomedical Engineer and Medical AI Researcher profile theme -->
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Hritika Adhikary — Soft MedTech Researcher" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Hritika Adhikary — Biomedical Engineer and Medical AI Researcher" width="100%" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I am a biomedical engineer building at the intersection of **medical imaging, artificial intelligence, computational modeling, wearable sensing, patient-specific design, and medical-device development**.
 
-My work moves between code and the physical world: from chest X-ray deep learning and physiological signals to finite-element tissue models, DICOM reconstruction, implant design, additive manufacturing, and regulatory strategy. I care about technology that is technically rigorous, clinically meaningful, and kinder to the people who use it.
+My work moves between code and the physical world: from chest X-ray deep learning and physiological signals to finite-element tissue models, DICOM reconstruction, implant design, additive manufacturing, and regulatory strategy. I care about technology that is technically rigorous, clinically meaningful, and accessible to the people who use it.
 
 - 📍 Tempe, Arizona
 - 🎓 M.S. Biomedical Engineering, Arizona State University — **GPA 3.65/4.00**
@@ -28,7 +28,7 @@ My work moves between code and the physical world: from chest X-ray deep learnin
 - 🔬 Interested in biomedical engineering, medical imaging, research, AI, and medical-device roles
 
 <p align="center">
-  <img src="assets/quote-widget.svg" alt="Turning curiosity into kinder healthcare" width="100%" />
+  <img src="assets/quote-widget.svg" alt="Engineering ideas into practical healthcare solutions" width="100%" />
 </p>
 
 ## My Work, Organized by Field
@@ -202,12 +202,13 @@ The central catalog connecting my technical projects, professional work, researc
   <img src="assets/toolkit-widget.svg" alt="Technical toolkit" width="100%" />
 </p>
 
-## GitHub at a Glance
+## Portfolio at a Glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrix7&show_icons=true&hide_border=true&bg_color=FDF8F6&title_color=8A4863&text_color=2E2E46&icon_color=A78BEA&ring_color=8EC9F3" alt="Hritika's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrix7&layout=compact&hide_border=true&bg_color=FDF8F6&title_color=8A4863&text_color=2E2E46" alt="Most used languages" />
+  <img width="49%" src="assets/impact-widget.svg" alt="Selected portfolio metrics" />
+  <img width="49%" src="assets/research-widget.svg" alt="Research and engineering areas" />
 </p>
+
 
 ## Education
 
@@ -216,5 +217,5 @@ The central catalog connecting my technical projects, professional work, researc
 - **Adamas University** — B.Tech. Biomedical Engineering, CGPA 8.88/10
 
 <p align="center">
-  <img src="assets/footer-banner.svg" alt="Research, code, design, build — a kinder tomorrow" width="100%" />
+  <img src="assets/footer-banner.svg" alt="Research, code, design, and better healthcare" width="100%" />
 </p>

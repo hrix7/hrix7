@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Hritika Adhikary — Soft MedTech Researcher</title>
-<desc id="desc">A romantic biomedical research banner in ivory, blush, lavender and blue.</desc>
+<title id="title">Hritika Adhikary — Biomedical Engineer and Medical AI Researcher</title>
+<desc id="desc">A biomedical engineering and medical AI banner in ivory, blush, lavender and blue.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FDF8F6"/><stop offset=".52" stop-color="#F7E9EF"/><stop offset="1" stop-color="#E9F5FD"/></linearGradient>
   <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D98FA8"/><stop offset=".48" stop-color="#A78BEA"/><stop offset="1" stop-color="#73B9E8"/></linearGradient>
@@ -32,9 +32,9 @@
   <rect x="208" y="55" width="728" height="278" rx="24" fill="#FFFDFC" fill-opacity=".72" stroke="#EADBE1"/>
 </g>
 <text x="572" y="102" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#8A4863" letter-spacing="4">HRITIKA ADHIKARY</text>
-<text x="572" y="166" text-anchor="middle" font-family="Georgia,serif" font-size="57" font-style="italic" font-weight="700" fill="#4D2536">Soft MedTech</text>
-<text x="572" y="225" text-anchor="middle" font-family="Georgia,serif" font-size="57" font-style="italic" font-weight="700" fill="#4D2536">Researcher <tspan fill="#D86F9B">♡</tspan></text>
-<text x="572" y="266" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8A4863" letter-spacing="5">TURNING CURIOSITY INTO KINDER HEALTHCARE</text>
+<text x="572" y="166" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-style="italic" font-weight="700" fill="#4D2536">Biomedical Engineer</text>
+<text x="572" y="225" text-anchor="middle" font-family="Georgia,serif" font-size="43" font-style="italic" font-weight="700" fill="#4D2536">&amp; Medical AI Researcher <tspan fill="#D86F9B">♡</tspan></text>
+<text x="572" y="266" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8A4863" letter-spacing="5">DESIGNING INTELLIGENT TOOLS FOR BETTER HEALTHCARE</text>
 <path d="M286 298 C350 279 401 320 469 298 S589 278 650 298 S774 318 858 294" fill="none" stroke="url(#wave)" stroke-width="4"/>
 <path d="M286 306 C350 287 401 328 469 306 S589 286 650 306 S774 326 858 302" fill="none" stroke="#8EC9F3" stroke-width="2" opacity=".55"/>
 <g font-family="Arial,sans-serif" font-size="12" fill="#60607A" letter-spacing="1.6">

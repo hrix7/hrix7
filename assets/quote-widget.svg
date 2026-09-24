@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Turning curiosity into kinder healthcare">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Engineering ideas into practical healthcare solutions">
 <defs><linearGradient id="qbg" x1="0" x2="1"><stop stop-color="#FDF8F6"/><stop offset=".5" stop-color="#F6E3EB"/><stop offset="1" stop-color="#EEF4FD"/></linearGradient></defs>
 <rect x="8" y="8" width="1184" height="164" rx="24" fill="url(#qbg)" stroke="#E6D6DE" stroke-width="2"/>
 <text x="82" y="75" font-family="Georgia,serif" font-size="72" fill="#D4B7C5">“</text>
-<text x="600" y="82" text-anchor="middle" font-family="Georgia,serif" font-size="34" font-style="italic" fill="#713D55">Turning curiosity into kinder healthcare.</text>
-<text x="600" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#716D83">IMAGINE  ·  RESEARCH  ·  DESIGN  ·  BUILD  ·  IMPACT</text>
+<text x="600" y="82" text-anchor="middle" font-family="Georgia,serif" font-size="34" font-style="italic" fill="#713D55">Engineering ideas into practical healthcare solutions.</text>
+<text x="600" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#716D83">DISCOVER  ·  MODEL  ·  VALIDATE  ·  TRANSLATE  ·  IMPACT</text>
 <path d="M105 142 C210 115 298 160 402 138 S600 117 706 140 S914 157 1095 133" fill="none" stroke="#A78BEA" stroke-opacity=".42" stroke-width="3"/>
 </svg>
