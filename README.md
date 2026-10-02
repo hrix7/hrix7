@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/atelier/hero.svg" width="100%" alt="Hritika Adhikary — Biomedical engineering, medical imaging and artificial intelligence. Engineering with purpose and precision." />
+  <img src="assets/rosewood-v1/hero.svg" width="100%" alt="Hritika Adhikary — Biomedical engineering, medical imaging and artificial intelligence. Engineering with purpose and precision." />
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 ## Selected work
 
 <p>
-  <a href="https://github.com/hrix7/Medical-Imaging-Deep-Learning"><img src="assets/atelier/imaging.svg" width="49%" alt="Medical imaging — chest X-ray classification, segmentation and lesion localization. Python, PyTorch, DICOM and HPC." /></a>
-  <a href="https://github.com/hrix7/3D-Pressure-Sore-Tissue-Model"><img src="assets/atelier/tissue.svg" width="49%" alt="Tissue modeling — three geometries and fifteen FEA simulation cases. SolidWorks and biomechanics." /></a>
+  <a href="https://github.com/hrix7/Medical-Imaging-Deep-Learning"><img src="assets/rosewood-v1/imaging.svg" width="49%" alt="Medical imaging — chest X-ray classification, segmentation and lesion localization. Python, PyTorch, DICOM and HPC." /></a>
+  <a href="https://github.com/hrix7/3D-Pressure-Sore-Tissue-Model"><img src="assets/rosewood-v1/tissue.svg" width="49%" alt="Tissue modeling — three geometries and fifteen FEA simulation cases. SolidWorks and biomechanics." /></a>
 </p>
 <p>
-  <a href="https://github.com/hrix7/Patient-Specific-Medical-Design"><img src="assets/atelier/design.svg" width="49%" alt="Patient-specific design — CT/MRI reconstruction, implant design and additive manufacturing at Steroviz Pixels." /></a>
-  <a href="https://github.com/hrix7/Wearable-Gait-Fall-Risk-System"><img src="assets/atelier/signals.svg" width="49%" alt="Signals and wearables — physiological signals, gait and multimodal wearable-system design." /></a>
+  <a href="https://github.com/hrix7/Patient-Specific-Medical-Design"><img src="assets/rosewood-v1/design.svg" width="49%" alt="Patient-specific design — CT/MRI reconstruction, implant design and additive manufacturing at Steroviz Pixels." /></a>
+  <a href="https://github.com/hrix7/Wearable-Gait-Fall-Risk-System"><img src="assets/rosewood-v1/signals.svg" width="49%" alt="Signals and wearables — physiological signals, gait and multimodal wearable-system design." /></a>
 </p>
 <p>
-  <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew"><img src="assets/atelier/agents.svg" width="49%" alt="AI Job Search Crew — local job matching, editable drafts, review and application tracking. Ongoing project." /></a>
-  <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/embedded-c-build-system"><img src="assets/atelier/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
+  <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew"><img src="assets/rosewood-v1/agents.svg" width="49%" alt="AI Job Search Crew — local job matching, editable drafts, review and application tracking. Ongoing project." /></a>
+  <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/embedded-c-build-system"><img src="assets/rosewood-v1/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
 </p>
 
 ## Project index
@@ -77,5 +77,5 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 **Adamas University** — B.Tech. Biomedical Engineering · CGPA 8.88/10
 
 <p align="center">
-  <img src="assets/atelier/footer.svg" width="100%" alt="Curiosity, translated into useful work. Research with intent. Build with care." />
+  <img src="assets/rosewood-v1/footer.svg" width="100%" alt="Curiosity, translated into useful work. Research with intent. Build with care." />
 </p>

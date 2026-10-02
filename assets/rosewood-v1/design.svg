@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img" aria-label="Anatomical design — decorative animation, not clinical data">
+<title>Anatomical design — decorative animation, not clinical data</title><defs><linearGradient id="paper" x2="1" y2=".6"><stop stop-color="#1D1618"/><stop offset=".52" stop-color="#251B20"/><stop offset="1" stop-color="#3A232C"/></linearGradient><radialGradient id="bloom"><stop stop-color="#5B2E38" stop-opacity=".8"/><stop offset="1" stop-color="#1D1618" stop-opacity="0"/></radialGradient><linearGradient id="petal" x2="1" y2="1"><stop stop-color="#E5C7BD"/><stop offset="1" stop-color="#8F5C6B"/></linearGradient><style>
+@keyframes scan {0%,100%{transform:translateY(-45px);opacity:.15}50%{transform:translateY(45px);opacity:.9}}
+@keyframes compression {0%,100%{transform:scaleY(1)}50%{transform:scaleY(.72)}}
+@keyframes load {0%,100%{transform:translateY(0)}50%{transform:translateY(18px)}}
+@keyframes contour {0%,15%{stroke-dashoffset:420;opacity:.35}70%,100%{stroke-dashoffset:0;opacity:1}}
+@keyframes signal {to{stroke-dashoffset:-180}}
+@keyframes firing {0%,65%,100%{opacity:.25}20%,35%{opacity:1}}
+@keyframes packet {0%{stroke-dashoffset:220}100%{stroke-dashoffset:0}}
+@keyframes helix {0%,100%{transform:scaleX(1)}50%{transform:scaleX(-1)}}
+.scan {animation:scan 5.8s ease-in-out infinite}
+.tissue {transform-box:fill-box;transform-origin:center bottom;animation:compression 6.4s ease-in-out infinite}
+.plate {animation:load 6.4s ease-in-out infinite}
+.contour {stroke-dasharray:420;animation:contour 7.8s ease-in-out infinite}
+.signal {stroke-dasharray:24 156;animation:signal 4s linear infinite}
+.node {animation:firing 7.2s ease-in-out infinite}
+.packet {stroke-dasharray:14 206;animation:packet 5.3s linear infinite}
+.helix {transform-box:fill-box;transform-origin:center;animation:helix 14s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.scan,.tissue,.plate,.contour,.signal,.node,.packet,.helix{animation:none!important;transform:none!important}.contour{stroke-dashoffset:0}.signal,.packet{stroke-dasharray:none}.node{opacity:1}}
+</style></defs>
+<rect width="580" height="260" rx="4" fill="url(#paper)"/><circle cx="530" cy="105" r="175" fill="url(#bloom)"/><g fill="none" stroke="#8F5C6B" stroke-width="1"><path d="M420 99L442 78L477 126Z"/><path d="M442 78L480 71L477 126Z"/><path d="M480 71L520 83L477 126Z"/><path d="M520 83L546 110L477 126Z"/><path d="M546 110L539 150L477 126Z"/><path d="M539 150L512 171L477 126Z"/><path d="M512 171L472 180L477 126Z"/><path d="M472 180L439 157L477 126Z"/><path d="M439 157L419 128L477 126Z"/><path d="M419 128L420 99L477 126Z"/></g><path class="contour" d="M420 99L442 78L480 71L520 83L546 110L539 150L512 171L472 180L439 157L419 128Z" fill="none" stroke="#E5C7BD" stroke-width="2.2"/><rect x=".5" y=".5" width="579" height="259" rx="4" fill="none" stroke="#704854"/><text x="28" y="34" fill="#C58F97" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">03 / PATIENT-SPECIFIC</text><text x="28" y="84" fill="#F4E6DE" font-family="Georgia,serif" font-size="32" >Anatomical design</text><text x="28" y="122" fill="#E5C7BD" font-family="Arial,sans-serif" font-size="17" >CT/MRI reconstruction,</text><text x="28" y="148" fill="#E5C7BD" font-family="Arial,sans-serif" font-size="17" >implants and 3D printing.</text><path d="M28 192H550" stroke="#704854" stroke-width=".7"/><text x="28" y="226" fill="#C58F97" font-family="Arial,sans-serif" font-size="13" >DICOM · CAD · STL</text><text x="528" y="228" fill="#C58F97" font-family="Arial,sans-serif" font-size="22" >↗</text></svg>
