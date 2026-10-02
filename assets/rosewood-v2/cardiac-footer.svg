@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">Curiosity, translated into useful work</title>
+<desc id="desc">Decorative cardiac engineering illustration: a beating anatomical heart wired to a medical monitor, a scrolling ECG and sequential status lights. This is not clinical data.</desc>
+<defs>
+ <linearGradient id="bg"><stop stop-color="#1D1618"/><stop offset="1" stop-color="#3A232C"/></linearGradient>
+ <linearGradient id="muscle" x2="1" y2="1"><stop stop-color="#C58F97"/><stop offset=".5" stop-color="#8F5C6B"/><stop offset="1" stop-color="#5B2E38"/></linearGradient>
+ <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#704854" stroke-width=".5" opacity=".55"/></pattern>
+ <clipPath id="screen"><rect x="870" y="69" width="244" height="117" rx="6"/></clipPath>
+ <path id="ecg" d="M0 0h32q8-12 16 0h20l7 9 10-42 10 58 9-25h15q12-16 24 0h37"/>
+</defs>
+<style>
+@keyframes beat{0%,38%,100%{transform:scale(1)}12%{transform:scale(1.055)}23%{transform:scale(1.012)}30%{transform:scale(1.035)}}
+@keyframes trace{to{transform:translateX(-180px)}}
+@keyframes status{0%,40%,100%{opacity:.35}12%,25%{opacity:1}}
+.heart{animation:beat 2.4s ease-in-out infinite}
+.trace{animation:trace 2.4s linear infinite}
+.status{animation:status 2.4s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.heart,.trace,.status{animation:none!important}}
+</style>
+<rect width="1200" height="270" rx="8" fill="url(#bg)"/>
+<path d="M40 34H1160M40 236H1160" stroke="#704854" stroke-width=".7"/>
+<g font-family="Arial,sans-serif">
+<text x="46" y="76" fill="#C58F97" font-size="11" letter-spacing="2.8">RESEARCH WITH INTENT. BUILD WITH CARE.</text>
+<text x="43" y="126" fill="#F4E6DE" font-family="Georgia,serif" font-size="36" font-style="italic">Curiosity, translated</text>
+<text x="43" y="172" fill="#F4E6DE" font-family="Georgia,serif" font-size="36" font-style="italic">into useful work.</text>
+<text x="46" y="213" fill="#C58F97" font-size="11" letter-spacing="2">BIOLOGY  /  SIGNALS  /  ENGINEERING</text>
+</g>
+<!-- Heart leads terminate at the monitor's input sockets. -->
+<g fill="none" stroke="#C58F97" stroke-width="1.5"><path d="M748 147H777Q790 147 790 160V205Q790 217 805 217H838V158H848"/><path d="M721 179V223H819V172H848" stroke="#8F5C6B"/></g>
+<g transform="translate(708 136)"><g class="heart">
+<!-- Great vessels and myocardium, stylized for an editorial illustration. -->
+<path d="M-9-38V-62Q-11-82 8-84Q30-86 29-62V-40" fill="none" stroke="#C58F97" stroke-width="15"/>
+<path d="M5-78V-96M17-79l4-17" stroke="#C58F97" stroke-width="8" stroke-linecap="round"/>
+<path d="M-24-35Q-51-54-48-73M16-29Q37-61 57-55" fill="none" stroke="#8F5C6B" stroke-width="13"/>
+<path d="M-5-39C-24-55-53-36-53-10C-61 24-36 54 8 75C30 57 54 31 49 3C50-24 27-50 8-37C2-34 0-34-5-39Z" fill="url(#muscle)" stroke="#E5C7BD" stroke-width="1.5"/>
+<g fill="none" stroke="#E5C7BD" stroke-width="1.6" opacity=".8"><path d="M-8-33Q-24-10-9 12T8 64M-14-7l-24 9M-13 9l-24 15M-3 25l-19 18M-7-22Q16-12 34 6M14-9l9-13M24 0l-1 20"/></g>
+<g fill="#F4E6DE" stroke="#5B2E38"><circle cx="40" cy="11" r="4"/><circle cx="13" cy="43" r="4"/></g>
+</g></g>
+<!-- Monitor casing, display, input connectors and rotary control. -->
+<rect x="848" y="47" width="287" height="159" rx="13" fill="#251B20" stroke="#C58F97" stroke-width="1.4"/>
+<rect x="862" y="61" width="260" height="132" rx="8" fill="#1D1618" stroke="#704854"/>
+<g clip-path="url(#screen)"><rect x="870" y="69" width="244" height="117" fill="url(#grid)"/>
+<g transform="translate(870 133)" fill="none" stroke="#E5C7BD" stroke-width="1.8" stroke-linejoin="round"><g class="trace"><path transform="translate(0 0)" d="M0 0h32q8-12 16 0h20l7 9 10-42 10 58 9-25h15q12-16 24 0h37"/><path transform="translate(180 0)" d="M0 0h32q8-12 16 0h20l7 9 10-42 10 58 9-25h15q12-16 24 0h37"/><path transform="translate(360 0)" d="M0 0h32q8-12 16 0h20l7 9 10-42 10 58 9-25h15q12-16 24 0h37"/></g></g></g>
+<g font-family="Arial,sans-serif" fill="#C58F97" font-size="8" letter-spacing="1.5"><text x="879" y="83">CARDIAC / SIGNAL STUDY</text><text x="879" y="179">ILLUSTRATIVE WAVEFORM</text></g>
+<path d="M956 207v15h70v-15M935 225h112" fill="none" stroke="#C58F97" stroke-width="2"/>
+<circle cx="1128" cy="180" r="3" fill="#E5C7BD" class="status"/>
+<circle cx="848" cy="158" r="3" fill="#E5C7BD"/><circle cx="848" cy="172" r="3" fill="#8F5C6B"/>
+<g fill="#C58F97"><circle cx="875" cy="199" r="2" class="status"/><circle cx="884" cy="199" r="2" class="status" style="animation-delay:.25s"/><circle cx="893" cy="199" r="2" class="status" style="animation-delay:.5s"/></g>
+</svg>
