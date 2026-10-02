@@ -31,6 +31,14 @@ My work moves between code and the physical world: from chest X-ray deep learnin
   <img src="assets/quote-widget.svg" alt="Engineering ideas into practical healthcare solutions" width="100%" />
 </p>
 
+## New Projects — October 2026
+
+| Field | Project | Progress |
+|---|---|---|
+| AI & Automation | [AI Job Search Crew](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew) | Local dashboard, evidence matching, editable drafts, review and tracking; optional local AI. |
+| Embedded Systems | [Embedded C Build System](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/embedded-c-build-system) | Completed HOST/MSP432 Makefiles with original course-source attribution and verification logs. |
+| App Development | [Application Desk](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/application-desk) | Browser-based application tracker, Part 1; MCP integration pending. Overview and Site link available. |
+
 ## My Work, Organized by Field
 
 ### 🧠 AI & Medical Imaging
