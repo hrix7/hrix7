@@ -60,12 +60,14 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 
 ## <img src="assets/rosewood-v2/icons/portfolio.svg" width="24" height="24" alt="" /> Experience
 
-| Role | Organization | Contribution |
-| :--- | :--- | :--- |
-| Instructional Aide · Biomaterials | Arizona State University | Instruction support, grading, Canvas administration and student questions |
-| Biomedical Researcher | Purcell BioPro | Patient-facing inhaler interface research and Figma workflow design |
-| Operations Engineer | Steroviz Pixels Pvt. Ltd. | 10+ CT/MRI reconstruction cases, patient-specific implant design, STL preparation and surgeon collaboration |
-| Biomedical Intern | Ruby General Hospital | Device maintenance and troubleshooting across OT, ICU, Cath Lab and Emergency departments |
+| Role | Organization | Timeline · duration* | Contribution |
+| :--- | :--- | :--- | :--- |
+| Instructional Aide · Biomaterials | Arizona State University | Jan 2026 – May 2026<br>5 months | Instruction support, grading, Canvas administration and student questions |
+| Biomedical Researcher | Purcell BioPro | Jun 2025 – Aug 2025<br>3 months | Patient-facing inhaler interface research and Figma workflow design |
+| Operations Engineer | Steroviz Pixels Pvt. Ltd. | Dec 2022 – May 2024<br>1 year 6 months | 10+ CT/MRI reconstruction cases, patient-specific implant design, STL preparation and surgeon collaboration |
+| Biomedical Intern | Ruby General Hospital | Aug 2022 – Sep 2022<br>2 months | Device maintenance and troubleshooting across OT, ICU, Cath Lab and Emergency departments |
+
+<sub>*Durations count the listed start and end months; exact employment dates may vary.</sub>
 
 ## <img src="assets/rosewood-v2/icons/code.svg" width="24" height="24" alt="" /> Technical practice
 
