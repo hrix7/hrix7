@@ -6,7 +6,8 @@
   <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio"><img src="assets/rosewood-v2/icons/portfolio.svg" width="16" height="16" alt="" /> PORTFOLIO</a> &nbsp; · &nbsp;
   <a href="https://github.com/hrix7/Conference-Publications"><img src="assets/rosewood-v2/icons/research.svg" width="16" height="16" alt="" /> RESEARCH</a> &nbsp; · &nbsp;
   <a href="#project-index"><img src="assets/rosewood-v2/icons/grid.svg" width="16" height="16" alt="" /> PROJECT INDEX</a> &nbsp; · &nbsp;
-  <a href="#experience"><img src="assets/rosewood-v2/icons/portfolio.svg" width="16" height="16" alt="" /> EXPERIENCE</a>
+  <a href="#experience"><img src="assets/rosewood-v2/icons/portfolio.svg" width="16" height="16" alt="" /> EXPERIENCE</a> &nbsp; · &nbsp;
+  <a href="#courses-certifications"><img src="assets/rosewood-v2/icons/education.svg" width="16" height="16" alt="" /> COURSES</a>
 </p>
 
 ### <img src="assets/rosewood-v2/icons/heart.svg" width="24" height="24" alt="" /> Biomedical engineer. Researcher. Builder.
@@ -28,7 +29,7 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 </p>
 <p>
   <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew"><img src="assets/rosewood-v1/agents.svg" width="49%" alt="AI Job Search Crew — local job matching, editable drafts, review and application tracking. Ongoing project." /></a>
-  <a href="https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/embedded-c-build-system"><img src="assets/rosewood-v1/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
+  <a href="https://github.com/hrix7/Embedded-Systems-Coursework"><img src="assets/rosewood-v1/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
 </p>
 
 <a id="project-index"></a>
@@ -43,7 +44,7 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 | <img src="assets/rosewood-v2/icons/design.svg" width="18" height="18" alt="" /> Design & visualization | [Patient-Specific Medical Design](https://github.com/hrix7/Patient-Specific-Medical-Design) · [Computer Graphics](https://github.com/hrix7/Computer-Graphics-and-3D-Visualization) | Anatomical reconstruction, implant CAD, Blender rendering |
 | <img src="assets/rosewood-v2/icons/heart.svg" width="18" height="18" alt="" /> Devices & translation | [Regulatory Analysis](https://github.com/hrix7/Medical-Device-Regulatory-Analysis) · [IoT Composter & Hydroponics](https://github.com/hrix7/IoT-Composter-Hydroponics-System) | Renal-device analysis, regulatory pathways, sensor integration |
 | <img src="assets/rosewood-v2/icons/code.svg" width="18" height="18" alt="" /> AI & automation | [AI Job Search Crew](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew) · [AI Agent Automation Lab](https://github.com/hrix7/AI-Agent-Automation-Lab) | Local tools, evidence-linked drafts, human review, MCP learning |
-| <img src="assets/rosewood-v2/icons/chip.svg" width="18" height="18" alt="" /> Embedded systems & apps | [Embedded C Build System](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/embedded-c-build-system) · [Application Desk](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/application-desk) | HOST/MSP432 Makefiles; browser tracker, Part 1 |
+| <img src="assets/rosewood-v2/icons/chip.svg" width="18" height="18" alt="" /> Embedded systems & apps | [Embedded Systems Coursework](https://github.com/hrix7/Embedded-Systems-Coursework) · [Application Desk](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/application-desk) | Embedded C, memory operations, HOST/MSP432 builds; browser tracker, Part 1 |
 | <img src="assets/rosewood-v2/icons/research.svg" width="18" height="18" alt="" /> Research | [Conference Publications](https://github.com/hrix7/Conference-Publications) | Collaborative biomedical engineering papers and publication records |
 
 <details>
@@ -51,7 +52,7 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 
 - **AI Job Search Crew:** local dashboard and reviewed-draft workflow implemented. Optional local-model testing on my Mac remains pending.
 - **Application Desk:** browser tracker, Part 1. Claude Desktop/MCP integration is a later phase; the GitHub entry currently contains an overview and Site link.
-- **Embedded C:** completed build files and prior HOST/MSP432 verification. MCU execution on physical hardware is not claimed.
+- **Embedded C:** Module 2 build system and Course 1 final-assessment code published with reproducible HOST tests. Physical MCU execution and course certification are not yet recorded.
 - **Pressure-sore model:** completed design and simulation work. Sensor integration and physical testing remain future work.
 
 </details>
@@ -74,6 +75,19 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 <img src="assets/rosewood-v2/icons/scan.svg" width="20" height="20" alt="" /> **Imaging & AI** — PyTorch, U-Net, ResNet, UPerNet, Faster R-CNN, DICOM, 3D Slicer, SLURM  
 <img src="assets/rosewood-v2/icons/design.svg" width="20" height="20" alt="" /> **Design & fabrication** — SolidWorks, Fusion 360, PTC Creo, Meshmixer, Blender, PreForm, SLA printing, Figma  
 <img src="assets/rosewood-v2/icons/heart.svg" width="20" height="20" alt="" /> **Devices & analysis** — FDA pathway analysis, FMEA, physiological signals, human factors, RULA/REBA
+
+<a id="courses-certifications"></a>
+
+## <img src="assets/rosewood-v2/icons/education.svg" width="24" height="24" alt="" /> Courses & Certifications
+
+A record of my continued learning, with links to the work behind it.
+
+| Course | Institution / context | Coursework & evidence | Status |
+| :--- | :--- | :--- | :--- |
+| Introduction to Embedded Systems Software and Development Environments | University of Colorado Boulder · Coursera | [Embedded Systems Coursework](https://github.com/hrix7/Embedded-Systems-Coursework): C, GNU Make, memory operations and HOST/MSP432 builds | Final-assessment implementation prepared; completion pending |
+| Computer Graphics and Imaging | Stanford University · Summer Session | [Graphics & 3D Visualization](https://github.com/hrix7/Computer-Graphics-and-3D-Visualization) | Completed coursework |
+
+**Certifications:** verified credential links will be added here when available. Coursework entries above do not imply an issued certificate.
 
 ## <img src="assets/rosewood-v2/icons/education.svg" width="24" height="24" alt="" /> Education
 
