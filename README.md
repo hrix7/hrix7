@@ -32,16 +32,6 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
   <a href="https://github.com/hrix7/Embedded-Systems-Coursework"><img src="assets/rosewood-v1/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
 </p>
 
-### <img src="assets/rosewood-v2/icons/research.svg" width="22" height="22" alt="" /> [ACW Accountability Lab](https://github.com/hrix7/ACW-Accountability-Lab)
-
-**Autonomous cyber systems · Risk, evidence & human control**
-
-My independent research software project brings together six-dimensional risk profiles, five human-control dimensions, evidence records, uncertainty intervals and sensitivity analysis. The Python CLI exports reproducible HTML and JSON reports.
-
-**Status:** working research prototype with synthetic examples; real-case evidence review and independent validation are ongoing.
-
-[Explore the repository](https://github.com/hrix7/ACW-Accountability-Lab) · [Methodology](https://github.com/hrix7/ACW-Accountability-Lab/blob/main/docs/METHODOLOGY.md) · [Roadmap](https://github.com/hrix7/ACW-Accountability-Lab/blob/main/docs/ROADMAP.md)
-
 <a id="project-index"></a>
 
 ## <img src="assets/rosewood-v2/icons/grid.svg" width="24" height="24" alt="" /> Project index
@@ -61,7 +51,6 @@ My independent research software project brings together six-dimensional risk pr
 <details>
 <summary><strong>Current development notes</strong></summary>
 
-- **ACW Accountability Lab:** working Python assessment engine, evidence records and HTML/JSON reports. Current examples are synthetic; scores are exploratory research measures, not validated risk predictions.
 - **AI Job Search Crew:** local dashboard and reviewed-draft workflow implemented. Optional local-model testing on my Mac remains pending.
 - **Application Desk:** browser tracker, Part 1. Claude Desktop/MCP integration is a later phase; the GitHub entry currently contains an overview and Site link.
 - **Embedded C:** configurable HOST/MSP432 builds, memory operations and integer conversions, with reproducible HOST tests. Physical MCU execution remains pending.
