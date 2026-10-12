@@ -32,6 +32,16 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
   <a href="https://github.com/hrix7/Embedded-Systems-Coursework"><img src="assets/rosewood-v1/embedded.svg" width="49%" alt="Embedded systems — HOST and MSP432 build files using C, GCC and GNU Make." /></a>
 </p>
 
+### <img src="assets/rosewood-v2/icons/research.svg" width="22" height="22" alt="" /> [ACW Accountability Lab](https://github.com/hrix7/ACW-Accountability-Lab)
+
+**Autonomous cyber systems · Risk, evidence & human control**
+
+My independent research software project brings together six-dimensional risk profiles, five human-control dimensions, evidence records, uncertainty intervals and sensitivity analysis. The Python CLI exports reproducible HTML and JSON reports.
+
+**Status:** working research prototype with synthetic examples; real-case evidence review and independent validation are ongoing.
+
+[Explore the repository](https://github.com/hrix7/ACW-Accountability-Lab) · [Methodology](https://github.com/hrix7/ACW-Accountability-Lab/blob/main/docs/METHODOLOGY.md) · [Roadmap](https://github.com/hrix7/ACW-Accountability-Lab/blob/main/docs/ROADMAP.md)
+
 <a id="project-index"></a>
 
 ## <img src="assets/rosewood-v2/icons/grid.svg" width="24" height="24" alt="" /> Project index
@@ -44,12 +54,14 @@ Interested in biomedical research, medical imaging, AI, and medical-device engin
 | <img src="assets/rosewood-v2/icons/design.svg" width="18" height="18" alt="" /> Design & visualization | [Patient-Specific Medical Design](https://github.com/hrix7/Patient-Specific-Medical-Design) · [Computer Graphics](https://github.com/hrix7/Computer-Graphics-and-3D-Visualization) | Anatomical reconstruction, implant CAD, Blender rendering |
 | <img src="assets/rosewood-v2/icons/heart.svg" width="18" height="18" alt="" /> Devices & translation | [Regulatory Analysis](https://github.com/hrix7/Medical-Device-Regulatory-Analysis) · [IoT Composter & Hydroponics](https://github.com/hrix7/IoT-Composter-Hydroponics-System) | Renal-device analysis, regulatory pathways, sensor integration |
 | <img src="assets/rosewood-v2/icons/code.svg" width="18" height="18" alt="" /> AI & automation | [AI Job Search Crew](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/ai-job-search-crew) · [AI Agent Automation Lab](https://github.com/hrix7/AI-Agent-Automation-Lab) | Local tools, evidence-linked drafts, human review, MCP learning |
+| <img src="assets/rosewood-v2/icons/research.svg" width="18" height="18" alt="" /> AI governance & cyber accountability | [ACW Accountability Lab](https://github.com/hrix7/ACW-Accountability-Lab) | Risk profiles, human-control assessment, evidence tracking and reproducible reports |
 | <img src="assets/rosewood-v2/icons/chip.svg" width="18" height="18" alt="" /> Embedded systems & apps | [Embedded C Build & Memory System](https://github.com/hrix7/Embedded-Systems-Coursework) · [Application Desk](https://github.com/hrix7/Biomedical-Engineering-Portfolio/tree/main/projects/application-desk) | Embedded C, memory operations, HOST/MSP432 builds; browser tracker, Part 1 |
 | <img src="assets/rosewood-v2/icons/research.svg" width="18" height="18" alt="" /> Research | [Conference Publications](https://github.com/hrix7/Conference-Publications) | Collaborative biomedical engineering papers and publication records |
 
 <details>
 <summary><strong>Current development notes</strong></summary>
 
+- **ACW Accountability Lab:** working Python assessment engine, evidence records and HTML/JSON reports. Current examples are synthetic; scores are exploratory research measures, not validated risk predictions.
 - **AI Job Search Crew:** local dashboard and reviewed-draft workflow implemented. Optional local-model testing on my Mac remains pending.
 - **Application Desk:** browser tracker, Part 1. Claude Desktop/MCP integration is a later phase; the GitHub entry currently contains an overview and Site link.
 - **Embedded C:** configurable HOST/MSP432 builds, memory operations and integer conversions, with reproducible HOST tests. Physical MCU execution remains pending.
